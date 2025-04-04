@@ -1,4 +1,4 @@
-!["AI Expert | Data Scientist | Machine Learning & Deep Learning Specialist"](https://media.licdn.com/dms/image/v2/D4D03AQH_i8ykkGJ9Xg/profile-displayphoto-shrink_200_200/B4DZUTH1BVGkAc-/0/1739782575391?e=1749081600&v=beta&t=mDFCeqFXhQvL9IeCg9Yo760S45UOUfuuIF4WVseqRKA)
+!["AI Expert | Data Scientist | Machine Learning & Deep Learning Specialist"](https://www.canva.com/design/DAGehQmouDM/zY2Wg5CNykNjQ724FbUxaQ/view?utm_content=DAGehQmouDM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h62312b64d6)
 ### Hi there 👋, I'm Mahmud
 #### "AI Expert | Data Scientist | Machine Learning & Deep Learning Specialist"
 
