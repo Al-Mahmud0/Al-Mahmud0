@@ -1,8 +1,5 @@
-!["AI Expert | Data Scientist | Machine Learning & Deep Learning Specialist"](https://www.canva.com/design/DAGehQmouDM/zY2Wg5CNykNjQ724FbUxaQ/view?utm_content=DAGehQmouDM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h62312b64d6)
 ### Hi there 👋, I'm Mahmud
 #### "AI Expert | Data Scientist | Machine Learning & Deep Learning Specialist"
-
-
 "Experienced AI expert | Data Scientist | ML/DL Specialist skilled in predictive analytics, neural networks, data preprocessing, and model optimization. Proficient in Python, scikit learn, TensorFlow, Keras, and real-time AI deployment."
 
 Skills: python/ matplotlib / seaborn/scikit-learn / TensorFlow
