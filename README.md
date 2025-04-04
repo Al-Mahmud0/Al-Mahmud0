@@ -1,9 +1,9 @@
-!["AI Expert | Data Scientist | Machine Learning & Deep Learning Specialist"](https://scontent.fcla1-1.fna.fbcdn.net/v/t39.30808-6/489030019_1206655671169387_8045441224188546105_n.png?stp=dst-png_s960x960&_nc_cat=100&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEJbniQhqZ3QgA6jBqWgdlHZv7JT38X-2Vm_slPfxf7ZcgwAl--beWBAeE4CyzlAjwZXr6P_yrbG7TmIk-LZjur&_nc_ohc=amwT0FLzOZoQ7kNvwHsUI7K&_nc_oc=AdnzjABk_DS7Ld_NME9DCs4VxNCjyLsghmRUkZwCoNxHKtGpooZFnvPdGi0mwPn59lY&_nc_zt=23&_nc_ht=scontent.fcla1-1.fna&_nc_gid=mRVyTGW5oJWhz-tJ380-SA&oh=00_AYE-UmixcuBcpMC3TEqXkHza-Y9lsUcJ4H5-xgX4EqAD2w&oe=67F5FFBC) 
+![💼 AI Expert | Data Scientist | Machine Learning & Deep Learning Specialist](https://scontent.fcla1-1.fna.fbcdn.net/v/t39.30808-6/489380326_1206660984502189_4832918797039115545_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeHfqlKzLRvqvNJDeCt-l2czLEE1egb3AAQsQTV6BvcABOPvP73k5sBc3imbdAaxv0qwUY-qBWZF-2XmZVOyc8SI&_nc_ohc=iVqr6TgOgggQ7kNvwGECfzS&_nc_oc=AdmiEAO_glZ_YMN3QI20BHzX7OE_231s-z2SV6Vt0vUOS1GidgbCX_w4FoxcSmvMlmo&_nc_zt=23&_nc_ht=scontent.fcla1-1.fna&_nc_gid=XX7rfPVRbKOTL2q5_GbK0w&oh=00_AYFBo7GM8O-mmI_kEGacCZAcwhGxVn1gYu1DnBzEHIDmuw&oe=67F5E0A7)
 ### Hi there 👋, I'm Mahmud
-#### "AI Expert | Data Scientist | Machine Learning & Deep Learning Specialist"
+#### 💼 AI Expert | Data Scientist | Machine Learning & Deep Learning Specialist
 
 
-"Experienced AI expert | Data Scientist | ML/DL Specialist skilled in predictive analytics, neural networks, data preprocessing, and model optimization. Proficient in Python, scikit learn, TensorFlow, Keras, and real-time AI deployment."
+🧠 "Experienced AI expert | Data Scientist | ML/DL Specialist skilled in predictive analytics, neural networks, data preprocessing, and model optimization. Proficient in Python, scikit-learn, TensorFlow, Keras, and real-time AI deployment."
 
 Skills: python/ matplotlib / seaborn/scikit-learn / TensorFlow
 
