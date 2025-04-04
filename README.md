@@ -1,34 +1,47 @@
-!["AI Expert | Data Scientist | Machine Learning & Deep Learning Specialist"](https://media.licdn.com/dms/image/v2/D4D03AQH_i8ykkGJ9Xg/profile-displayphoto-shrink_200_200/B4DZUTH1BVGkAc-/0/1739782575391?e=1749081600&v=beta&t=mDFCeqFXhQvL9IeCg9Yo760S45UOUfuuIF4WVseqRKA) 
-### Hi there 👋, I'm Mahmud
-#### "AI Expert | Data Scientist | Machine Learning & Deep Learning Specialist"
+<img src="https://media.licdn.com/dms/image/v2/D4D03AQH_i8ykkGJ9Xg/profile-displayphoto-shrink_200_200/B4DZUTH1BVGkAc-/0/1739782575391?e=1749081600&v=beta&t=mDFCeqFXhQvL9IeCg9Yo760S45UOUfuuIF4WVseqRKA" width="120" height="120" style="border-radius: 50%"/>
+👋 Hi there, I'm Mahmud
+🔍 AI Expert | Data Scientist | Machine Learning & Deep Learning Specialist
+🎯 About Me
+I’m an AI enthusiast and problem solver with hands-on experience in:
 
+✅ Predictive Analytics
 
-"Experienced AI expert | Data Scientist | ML/DL Specialist skilled in predictive analytics, neural networks, data preprocessing, and model optimization. Proficient in Python, scikit learn, TensorFlow, Keras, and real-time AI deployment."
+✅ Neural Network Modeling
 
-Skills: python/ matplotlib / seaborn/scikit-learn / TensorFlow
+✅ Data Preprocessing & Feature Engineering
 
-- 🔭 I’m currently working on Kaggle, Upwork, and Remote job  
-- 🌱 I’m currently learning AI 
-- 👯 I’m looking to collaborate on Github and other platform 
-- 🤔 I’m looking for help with AI solution 
-- 💬 Ask me about Anything  
-- 📫 How to reach me: social media or mail  
-- 😄 Pronouns: He 
+✅ Deep Learning for Computer Vision & NLP
 
+✅ Real-time AI Model Deployment
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Al-Mahmud0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/HM Mahmud /)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/LuxuryVoyages )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/a.mx.luxury/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/HM_MAHMUD_AI)  
+📌 I love turning data into powerful, intelligent solutions.
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+🧠 Tech Stack & Tools
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Al-Mahmud0)](https://github.com/ryo-ma/github-profile-trophy)
+💻 Programming: Python | SQL
+📊 Data Viz: Matplotlib | Seaborn | Plotly
+🔍 ML Libraries: Scikit-learn | XGBoost | LightGBM
+🧬 Deep Learning: TensorFlow | Keras | PyTorch
+🧹 Data: Pandas | NumPy | OpenCV
+🌍 Platforms: Kaggle | Upwork | GitHub
+🛠️ Tools: VSCode | Google Colab | Jupyter | Docker
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Al-Mahmud0)](https://github.com/anuraghazra/github-readme-stats)
+📌 Currently
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Al-Mahmud0&show_icons=true&count_private=true)  
+🔭 Working on freelance AI/ML projects
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Al-Mahmud0/contributions?format=svg&private=true)  
+🧪 Exploring advanced AI solutions & real-world deployment
 
-![GitHub metrics](https://metrics.lecoq.io/Al-Mahmud0)  
+📚 Learning cutting-edge developments in AGI & generative AI
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Al-Mahmud0)  
+🤝 Let's Collaborate!
+
+💡 I'm open to projects, research, and remote opportunities
+
+👯 Connect on GitHub or any of my socials below
+
+💬 Ask me anything—I'm always happy to share knowledge
+
+🌐 Find Me Online
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='30'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='30'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='Facebook' height='30'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='Instagram' height='30'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='Twitter' height='30'>
 
